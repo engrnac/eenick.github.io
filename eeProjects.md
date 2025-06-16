@@ -6,6 +6,11 @@ title: Projects
 {% include navbar.html %}
 
 <style>
+
+.page-content {
+  max-width: 1200px !important;
+}
+  
 .project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
