@@ -46,6 +46,16 @@ title: Projects
 .project-card * {
   color: white;
 }
+
+  
+.project-card img {
+  display: block;
+  margin: 0 auto 10px auto;  /* centers the image horizontally */
+  max-width: 80%;            /* optional: shrink slightly inside the card */
+  height: auto;
+  border-radius: 4px;
+}
+
 </style>
 
 # ⚡ Electrical Engineering Projects
