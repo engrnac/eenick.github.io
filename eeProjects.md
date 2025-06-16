@@ -7,7 +7,7 @@ title: Projects
 
 <style>
 
-.page-content {
+.container {
   max-width: 1200px !important;
 }
   
