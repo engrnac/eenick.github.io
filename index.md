@@ -2,6 +2,13 @@
 layout: default
 title: Home
 ---
+<style>
+
+.page-content {
+  max-width: 1200px !important;
+}
+  
+</style>
 
 {% include navbar.html %}
 
