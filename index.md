@@ -5,20 +5,12 @@ title: Home
 
 {% include navbar.html %}
 
-<style>
-
-.container {
-  max-width: 1200px !important;
-  width: 95% !important;
-}
-  
-</style>
 
 # Welcome to My EE Portfolio 👋
 
 I’m **Nicholas Chavez**, an Electrical Engineer focused on Power Electronics and Embedded Systems.
 
-## ⚡ Featured Projects
+## ⚡ Featured Projects 999
 
 - [ESP32 Solar Harvester](https://github.com/eenick/esp32-solar-harvester)
 - [FPGA Retro Console](https://github.com/eenick/fpga-retro-console)
