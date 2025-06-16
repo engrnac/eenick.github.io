@@ -48,7 +48,7 @@ Smaller, focused builds or experiments to explore key EE concepts.
 
 ---
 
-## ⚡ Power Electronics
+## 🔌 Power Electronics
 
 <div class="study-section">
   <a href="study.html" class="study-tile"><h3>DC-DC Converter Simulation</h3></a>
@@ -58,7 +58,7 @@ Smaller, focused builds or experiments to explore key EE concepts.
 
 ---
 
-## 🧠 Embedded Systems
+## 📟 Embedded Systems
 
 <div class="study-section">
   <a href="study.html" class="study-tile"><h3>Timer Interrupt Practice (STM32)</h3></a>
@@ -68,7 +68,7 @@ Smaller, focused builds or experiments to explore key EE concepts.
 
 ---
 
-## 🔧 Miscellaneous
+## 📡 Miscellaneous
 
 <div class="study-section">
   <a href="study.html" class="study-tile"><h3>CLI Menu in C</h3></a>
