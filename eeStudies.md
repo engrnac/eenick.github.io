@@ -49,7 +49,7 @@ title: Study Projects
 ### 🔌 Power Electronics
 
 <div class="study-section">
-  <a href="study.html" class="study-tile"><h3>DC-DC Converter Simulation</h3></a>
+  <a href="Buck_3V3-5V_in_1V_out_10W.html" class="study-tile"><h3>10W Buck 3V3-5V to 1V</h3></a>
   <a href="study.html" class="study-tile"><h3>Current Mode Control Loop Test</h3></a>
   <a href="study.html" class="study-tile"><h3>Transformer vs Inductor Demo</h3></a>
 </div>
