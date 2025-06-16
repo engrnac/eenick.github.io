@@ -6,11 +6,6 @@ title: Projects
 {% include navbar.html %}
 
 <style>
-
-body > .container {
-  max-width: 1200px !important;
-  width: 95% !important;
-}
   
 .project-grid {
   display: grid;
