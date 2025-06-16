@@ -7,8 +7,9 @@ title: Projects
 
 <style>
 
-.container {
+body > .container {
   max-width: 1200px !important;
+  width: 95% !important;
 }
   
 .project-grid {
