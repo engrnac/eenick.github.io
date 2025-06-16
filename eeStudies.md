@@ -19,7 +19,7 @@ title: Study Projects
 
 .study-tile {
   display: block;
-  background-color: #222;
+  background-color: #444;
   color: white;
   padding: 1em 1.5em;
   margin: 0.5em 0;
@@ -29,7 +29,7 @@ title: Study Projects
 }
 
 .study-tile:hover {
-  background-color: #333;
+  background-color: #666;
 }
 
 .study-tile h3 {
