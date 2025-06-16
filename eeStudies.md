@@ -59,9 +59,19 @@ title: Study Projects
 ### 📟 Embedded Systems
 
 <div class="study-section">
-  <a href="study.html" class="study-tile"><h3>Timer Interrupt Practice (STM32)</h3></a>
-  <a href="study.html" class="study-tile"><h3>ADC Filtering on ESP32</h3></a>
-  <a href="study.html" class="study-tile"><h3>FreeRTOS Basics</h3></a>
+  <a href="RTC_Clock.html" class="study-tile"><h3>RTC CLock</h3></a>
+  <a href="I2C_Tempurature_Sensor.html" class="study-tile"><h3>I2C Temperature Sensor</h3></a>
+  <a href="SPI_OLED.html" class="study-tile"><h3>SPI OLED</h3></a>
+</div>
+
+---
+
+### 📺 FPGA
+
+<div class="study-section">
+  <a href="study.html" class="study-tile"><h3>CLI Menu in C</h3></a>
+  <a href="study.html" class="study-tile"><h3>Simple UART Echo</h3></a>
+  <a href="study.html" class="study-tile"><h3>LTspice Thermal Simulation</h3></a>
 </div>
 
 ---
