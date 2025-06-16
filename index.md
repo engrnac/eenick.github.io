@@ -20,7 +20,7 @@ I’m **Nicholas Chavez**, an Electrical Engineer focused on Power Electronics a
 
 ## ⚡ Featured Projects
 
-- [ESP32 Solar Harvester](https://github.com/eenick/esp32-solar-harvester)
+- 999[ESP32 Solar Harvester](https://github.com/eenick/esp32-solar-harvester)
 - [FPGA Retro Console](https://github.com/eenick/fpga-retro-console)
 
 ## 📫 Contact
