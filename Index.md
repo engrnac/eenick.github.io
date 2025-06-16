@@ -1,14 +1,24 @@
-# Nick Chavez – Electrical Engineer
+---
+layout: default
+title: Welcome
+---
 
-Welcome to my portfolio!  
-Here you'll find my projects in power electronics, embedded systems, and FPGA design.
+# Welcome to My EE Portfolio 👋
 
-## Projects
+I’m **Nick Chavez**, an Electrical Engineer focused on:
+
+- ⚡ Power Electronics
+- 📡 Embedded Systems
+- 🔧 FPGA-based Design
+
+## 🧪 Featured Projects
+
 - [ESP32 Solar Harvester](https://github.com/eenick/esp32-solar-harvester)
 - [FPGA Retro Console](https://github.com/eenick/fpga-retro-console)
-- [More coming soon...](#)
+- [Buck-Boost Converter Design](#)
 
-## About Me
-Recent EE graduate specializing in power systems, embedded firmware, and hardware prototyping.
+## 📫 Contact
 
-📫 Contact: nick@eenick.com
+- Email: nick@eenick.com  
+- GitHub: [@eenick](https://github.com/eenick)  
+- Resume: [View PDF](#)
