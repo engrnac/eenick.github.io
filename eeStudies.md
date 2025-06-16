@@ -44,8 +44,6 @@ title: Study Projects
 
 # 📘 Study Projects
 
-Smaller, focused builds or experiments to explore key EE concepts.
-
 ---
 
 ## 🔌 Power Electronics
