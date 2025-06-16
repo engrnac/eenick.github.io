@@ -46,7 +46,7 @@ title: Study Projects
 
 ---
 
-### 🔌 Power Electronics
+## 🔌 Power Electronics
 
 <div class="study-section">
   <a href="study.html" class="study-tile"><h3>DC-DC Converter Simulation</h3></a>
