@@ -36,7 +36,7 @@ title: About
 </style>
 
 <div class="about-container">
-  <img src="/assets/img/me.jpg" alt="Nick Chavez" class="about-photo">
+  <img src="/assets/img/me.jpg" alt="Nicholas Chavez" class="about-photo">
 </div>
 
 <div class="about-content">
