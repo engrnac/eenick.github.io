@@ -3,4 +3,4 @@ description: Projects in Power Electronics, Embedded Systems, and FPGA
 theme: jekyll-theme-slate
 
 include:
-  asset/css/custom.css
+  - asset/css/custom.css
