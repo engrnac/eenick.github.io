@@ -56,7 +56,7 @@ title: Study Projects
 
 ---
 
-### 📟 Embedded Systems
+### ⌨  Embedded Systems
 
 <div class="study-section">
   <a href="RTC_Clock.html" class="study-tile"><h3>RTC CLock</h3></a>
@@ -66,7 +66,7 @@ title: Study Projects
 
 ---
 
-### 📺 FPGA
+### 📟 FPGA
 
 <div class="study-section">
   <a href="Traffic_Light_Controller_FSM.html" class="study-tile"><h3>FSM Traffic Light Controller</h3></a>
