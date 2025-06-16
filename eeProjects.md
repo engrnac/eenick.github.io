@@ -19,54 +19,55 @@ title: Projects
   border-radius: 8px;
   color: white;
   text-align: center;
+  text-decoration: none;
   box-shadow: 0 2px 6px rgba(0,0,0,0.3);
-  transition: transform 0.2s;
+  transition: transform 0.2s, box-shadow 0.2s;
+  display: block;
 }
 
-.project-card h3,
-.project-card p,
-.project-card a {
-  color: white !important;
-}
-
-.project-card a:hover {
-  color: #66ccff !important;
-}
- 
 .project-card:hover {
-  transform: scale(1.02);
+  transform: scale(1.03);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
 }
+
 .project-card img {
   width: 100%;
   height: auto;
   border-radius: 4px;
   margin-bottom: 10px;
 }
-.project-card h3 {
-  margin: 0.5em 0 0.2em;
+
+.project-card h3,
+.project-card p {
+  color: white;
+  margin: 0.5em 0;
 }
 
+.project-card * {
+  color: white;
 }
 </style>
 
+# ⚡ Electrical Engineering Projects
+
 <div class="project-grid">
 
-  <div class="project-card">
-    <img src="/images/EE_Question.jpg" alt="ESP32 Solar Harvester">
+  <a href="/projects/solar-harvester.html" class="project-card">
+    <img src="/images/EE_Question.jpeg" alt="ESP32 Solar Harvester">
     <h3>ESP32 Solar Harvester</h3>
-    <p><a href="https://github.com/eenick/esp32-solar-harvester">View on GitHub</a></p>
-  </div>
+    <p>Solar-powered telemetry with ESP32 and supercapacitor storage.</p>
+  </a>
 
-  <div class="project-card">
-    <img src="/images/EE_Question.jpg" alt="FPGA Retro Console">
+  <a href="/projects/fpga-retro-console.html" class="project-card">
+    <img src="/images/EE_Question.jpeg" alt="FPGA Retro Console">
     <h3>FPGA Retro Console</h3>
-    <p><a href="https://github.com/eenick/fpga-retro-console">View on GitHub</a></p>
-  </div>
+    <p>Game system SoC with VGA, audio, and input using Verilog on Arty A7.</p>
+  </a>
 
-  <div class="project-card">
-    <img src="/images/EE_Question.jpg" alt="Buck Converter">
-    <h3>Buck Converter</h3>
-    <p><a href="#">Design Details Coming Soon</a></p>
-  </div>
+  <a href="/projects/buck-converter.html" class="project-card">
+    <img src="/images/EE_Question.jpeg" alt="Buck Converter Design">
+    <h3>Buck Converter Design</h3>
+    <p>LTspice-modeled synchronous converter with 10W output and low ripple.</p>
+  </a>
 
 </div>
