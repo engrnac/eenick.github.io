@@ -2,15 +2,17 @@
 layout: default
 title: Home
 ---
+
+{% include navbar.html %}
+
 <style>
 
-.container {
+body > .container {
   max-width: 1200px !important;
+  width: 95% !important;
 }
   
 </style>
-
-{% include navbar.html %}
 
 # Welcome to My EE Portfolio 👋
 
