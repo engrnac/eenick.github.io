@@ -51,7 +51,7 @@ title: Study Projects
 <div class="study-section">
   <a href="Buck_3V3-5V_in_1V_out_10W.html" class="study-tile"><h3>10W Buck 3.3-5V to 1V</h3></a>
   <a href="Boost_20V-30V_in_40V_out_600W.html" class="study-tile"><h3>600W Boost 20-30V to 40V</h3></a>
-  <a href="study.html" class="study-tile"><h3>Transformer vs Inductor Demo</h3></a>
+  <a href="BuckBoost_30V-60V_in_(-45)V_out_300W.html" class="study-tile"><h3>300W Buck-Boost 30-60V to 40V</h3></a>
 </div>
 
 ---
