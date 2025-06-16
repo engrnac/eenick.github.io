@@ -63,7 +63,7 @@ title: Projects
 
 <div class="project-grid">
 
-  <a href="/projects/Retro_Handheld_RP_CM5.html" class="project-card">
+  <a href="/projects/Retro_Handheld_w_Raspberry_CM5.html" class="project-card">
     <img src="/images/EE_Question.jpg" alt="Retro Handheld Design">
     <h3>Retro Handheld w/ Raspberry Pi CM5 </h3>
     <p>Game system handheld using Raspberry Pi CM5 and custom made IO board.</p>
