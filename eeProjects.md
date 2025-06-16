@@ -62,22 +62,40 @@ title: Projects
 
 <div class="project-grid">
 
-  <a href="/projects/solar-harvester.html" class="project-card">
+  <a href="/projects/Solar_Power_Conditioning.html" class="project-card">
     <img src="/images/EE_Question.jpg" alt="ESP32 Solar Harvester">
     <h3>ESP32 Solar Harvester</h3>
     <p>Solar-powered telemetry with ESP32 and supercapacitor storage.</p>
   </a>
 
-  <a href="/projects/fpga-retro-console.html" class="project-card">
-    <img src="/images/EE_Question.jpg" alt="FPGA Retro Console">
-    <h3>FPGA Retro Console</h3>
-    <p>Game system SoC with VGA, audio, and input using Verilog on Arty A7.</p>
+  <a href="/projects/Retro_Handheld_RP_CM5.html" class="project-card">
+    <img src="/images/EE_Question.jpg" alt="Retro Handheld Design">
+    <h3>Retro Handheld w/ Raspberry Pi CM5 </h3>
+    <p>Game system handheld using Raspberry Pi CM5 and custom made IO board.</p>
   </a>
 
-  <a href="/projects/buck-converter.html" class="project-card">
-    <img src="/images/EE_Question.jpg" alt="Buck Converter Design">
-    <h3>Buck Converter Design</h3>
-    <p>LTspice-modeled synchronous converter with 10W output and low ripple.</p>
+  <a href="/projects/USB_C_Wall_Adaptor_Charger.html" class="project-card">
+    <img src="/images/EE_Question.jpg" alt="USB C Power Brick">
+    <h3>USB-C Power Adaptor Design </h3>
+    <p>USB-C Power Adaptor Design </p>
+  </a>
+
+  <a href="/projects/USB_C_Wall_Adaptor_Charger.html" class="project-card">
+    <img src="/images/EE_Question.jpg" alt="USB C Power Brick">
+    <h3>USB-C Power Adaptor Design </h3>
+    <p>USB-C Power Adaptor Design </p>
+  </a>
+
+  <a href="/projects/USB_C_Wall_Adaptor_Charger.html" class="project-card">
+    <img src="/images/EE_Question.jpg" alt="USB C Power Brick">
+    <h3>USB-C Power Adaptor Design </h3>
+    <p>USB-C Power Adaptor Design </p>
+  </a>
+
+  <a href="/projects/USB_C_Wall_Adaptor_Charger.html" class="project-card">
+    <img src="/images/EE_Question.jpg" alt="USB C Power Brick">
+    <h3>USB-C Power Adaptor Design </h3>
+    <p>USB-C Power Adaptor Design </p>
   </a>
 
 </div>
