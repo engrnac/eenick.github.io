@@ -14,7 +14,7 @@ title: About
 .about-photo {
   width: 200px;
   border-radius: 50%;
-  border: 3px solid #66ccff;
+  border: 3px solid #333;
   box-shadow: 0 0 15px rgba(0,0,0,0.5);
   margin-bottom: 1.5em;
 }
@@ -25,11 +25,11 @@ title: About
   padding: 1em;
   text-align: left;
   line-height: 1.7;
-  color: white;
+  color: black;
 }
 
 .about-content h2 {
-  color: #66ccff;
+  color: #333;
   border-bottom: 2px solid #444;
   padding-bottom: 0.25em;
 }
