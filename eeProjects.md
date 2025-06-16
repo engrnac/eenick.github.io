@@ -63,12 +63,6 @@ title: Projects
 
 <div class="project-grid">
 
-  <a href="/projects/Solar_Power_Conditioning.html" class="project-card">
-    <img src="/images/EE_Question.jpg" alt="ESP32 Solar Harvester">
-    <h3>ESP32 Solar Harvester</h3>
-    <p>Solar-powered telemetry with ESP32 and supercapacitor storage.</p>
-  </a>
-
   <a href="/projects/Retro_Handheld_RP_CM5.html" class="project-card">
     <img src="/images/EE_Question.jpg" alt="Retro Handheld Design">
     <h3>Retro Handheld w/ Raspberry Pi CM5 </h3>
@@ -81,22 +75,16 @@ title: Projects
     <p>USB-C Power Adaptor Design </p>
   </a>
 
-  <a href="/projects/USB_C_Wall_Adaptor_Charger.html" class="project-card">
-    <img src="/images/EE_Question.jpg" alt="USB C Power Brick">
-    <h3>USB-C Power Adaptor Design </h3>
-    <p>USB-C Power Adaptor Design </p>
+  <a href="/projects/Solar_Power_Conditioning.html" class="project-card">
+    <img src="/images/EE_Question.jpg" alt="ESP32 Solar Harvester">
+    <h3>ESP32 Solar Harvester</h3>
+    <p>Solar-powered telemetry with ESP32 and supercapacitor storage.</p>
   </a>
 
-  <a href="/projects/USB_C_Wall_Adaptor_Charger.html" class="project-card">
+  <a href="/projects/UHF_RFID_Interrogator.html" class="project-card">
     <img src="/images/EE_Question.jpg" alt="USB C Power Brick">
-    <h3>USB-C Power Adaptor Design </h3>
-    <p>USB-C Power Adaptor Design </p>
-  </a>
-
-  <a href="/projects/USB_C_Wall_Adaptor_Charger.html" class="project-card">
-    <img src="/images/EE_Question.jpg" alt="USB C Power Brick">
-    <h3>USB-C Power Adaptor Design </h3>
-    <p>USB-C Power Adaptor Design </p>
+    <h3>UHF RFID Interrogator </h3>
+    <p>Ultra High Frequency RFID Interrogator - Senior Project </p>
   </a>
 
 </div>
