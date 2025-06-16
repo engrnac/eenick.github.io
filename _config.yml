@@ -1,7 +1,6 @@
 title: Nicholas Chavez - Electrical Engineer
 description: Projects in Power Electronics, Embedded Systems, and FPGA
 
-theme: jekyll-theme-slate
-
-sass:
-  style: compressed
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
