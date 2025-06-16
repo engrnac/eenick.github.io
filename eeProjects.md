@@ -69,7 +69,7 @@ title: Projects
     <p>Game system handheld using Raspberry Pi CM5 and custom made IO board.</p>
   </a>
 
-  <a href="/projects/USB_C_Wall_Adaptor_Charger.html" class="project-card">
+  <a href="/projects/USB_C_Power_Adaptor.html" class="project-card">
     <img src="/images/EE_Question.jpg" alt="USB C Power Brick">
     <h3>USB-C Power Adaptor Design </h3>
     <p>USB-C Power Adaptor Design </p>
