@@ -4,7 +4,7 @@ title: Home
 ---
 <style>
 
-.page-content {
+.container {
   max-width: 1200px !important;
 }
   
