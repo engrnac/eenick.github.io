@@ -22,6 +22,17 @@ title: Projects
   box-shadow: 0 2px 6px rgba(0,0,0,0.3);
   transition: transform 0.2s;
 }
+
+.project-card h3,
+.project-card p,
+.project-card a {
+  color: white !important;
+}
+
+.project-card a:hover {
+  color: #66ccff !important;
+}
+ 
 .project-card:hover {
   transform: scale(1.02);
 }
@@ -34,9 +45,7 @@ title: Projects
 .project-card h3 {
   margin: 0.5em 0 0.2em;
 }
-.project-card a {
-  color: #66ccff;
-  text-decoration: none;
+
 }
 </style>
 
