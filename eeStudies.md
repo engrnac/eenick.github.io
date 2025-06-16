@@ -19,28 +19,32 @@ title: Study Projects
 
 .study-tile {
   display: block;
-  background-color: #444;
-  color: white;
+  background-color: #1e1e1e;
+  color: white !important;
   padding: 1em 1.5em;
-  margin: 0.5em 0;
-  border-radius: 5px;
+  margin: 0.75em 0;
+  border-radius: 6px;
   text-decoration: none;
-  transition: background 0.2s;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.2s ease;
 }
 
 .study-tile:hover {
-  background-color: #666;
+  background-color: #2a2a2a;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
 }
 
 .study-tile h3 {
   margin: 0;
   font-size: 1.1em;
+  color: white;
 }
 </style>
 
 # 📘 Study Projects
 
-Smaller, focused builds or tests I've done to explore core concepts.
+Smaller, focused builds or experiments to explore key EE concepts.
 
 ---
 
