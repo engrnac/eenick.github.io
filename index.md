@@ -1,3 +1,9 @@
+<script>
+  if (window.location.hostname === "eenick.com" || window.location.hostname === "www.eenick.com") {
+    window.location.href = "https://eenick.dev";
+  }
+</script>
+
 ---
 layout: default
 title: Home
