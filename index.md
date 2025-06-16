@@ -7,7 +7,7 @@ title: Home
 
 <style>
 
-body > .container {
+.container {
   max-width: 1200px !important;
   width: 95% !important;
 }
