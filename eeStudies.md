@@ -69,9 +69,9 @@ title: Study Projects
 ### 📺 FPGA
 
 <div class="study-section">
-  <a href="study.html" class="study-tile"><h3>CLI Menu in C</h3></a>
-  <a href="study.html" class="study-tile"><h3>Simple UART Echo</h3></a>
-  <a href="study.html" class="study-tile"><h3>LTspice Thermal Simulation</h3></a>
+  <a href="Traffic_Light_Controller_FSM.html" class="study-tile"><h3>FSM Traffic Light Controller</h3></a>
+  <a href="8_bit_ALU.html" class="study-tile"><h3>8-bit ALU</h3></a>
+  <a href="Buzzer_Note_Generator.html" class="study-tile"><h3>Buzzer Note Generator</h3></a>
 </div>
 
 ---
@@ -79,7 +79,7 @@ title: Study Projects
 ### 📡 Miscellaneous
 
 <div class="study-section">
-  <a href="study.html" class="study-tile"><h3>CLI Menu in C</h3></a>
-  <a href="study.html" class="study-tile"><h3>Simple UART Echo</h3></a>
+  <a href="study.html" class="study-tile"><h3>N/A</h3></a>
+  <a href="study.html" class="study-tile"><h3>N/A</h3></a>
   <a href="study.html" class="study-tile"><h3>LTspice Thermal Simulation</h3></a>
 </div>
