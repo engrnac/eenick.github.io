@@ -37,11 +37,9 @@ title: About
   <img src="/assets/img/me.jpg" alt="Nicholas Chavez" class="about-photo">
 </div>
 
-<div class="about-content">
-  <h2> My Story </h2>
+# My Story
 
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat erat vel erat laoreet, vel viverra sapien suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur sed tellus a est hendrerit tempus. Nulla facilisi. Fusce nec fermentum dolor, ac euismod justo. Sed at purus non ligula posuere porta.
-  </p>
-</div>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat erat vel erat laoreet, vel viverra sapien suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur sed tellus a est hendrerit tempus. Nulla facilisi. Fusce nec fermentum dolor, ac euismod justo. Sed at purus non ligula posuere porta.
+
 
