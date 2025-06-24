@@ -18,12 +18,17 @@ p {
 }
 
 a {
-  color: #66ccff
+  color: #ffcc66
   text-decoration: none;
 }
 
 a:hover {
+  color: #ffd999;
   text-decoration: underline;
+}
+
+a:visited {
+  color: #ffbb55
 }
 
 h1, h2, h3, h4, h5, h6 {
