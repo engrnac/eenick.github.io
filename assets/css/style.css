@@ -23,6 +23,7 @@ nav.sticky-navbar a {
   text-decoration: none;
   white-space: nowrap;
   padding: 0.5em 1em;
+  display: inline-block;
 }
 
 body {
