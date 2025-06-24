@@ -13,6 +13,10 @@ body {
   padding: 2em;
 }
 
+p {
+  color: white;
+}
+
 a {
   color: #66ccff
   text-decoration: none;
