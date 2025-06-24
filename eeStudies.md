@@ -3,8 +3,6 @@ layout: default
 title: Study Projects
 ---
 
-{% include navbar.html %}
-
 <style>
 .study-section {
   margin-bottom: 2em;
