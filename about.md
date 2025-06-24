@@ -3,8 +3,6 @@ layout: default
 title: About
 ---
 
-{% include navbar.html %}
-
 <style>
 .about-container {
   text-align: center;
