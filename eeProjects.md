@@ -13,7 +13,7 @@ title: Projects
 }
 
 .project-card {
-  background-color: #222;
+  background-color: #1a1a1a;
   padding: 1em;
   border-radius: 8px;
   color: white;
@@ -25,8 +25,9 @@ title: Projects
 }
 
 .project-card:hover {
+  background-color: #2a2a2a;
   transform: scale(1.03);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+  box-shadow: 0 4px 12px rgba(200,200,200,0.5);
 }
 
 .project-card img {
