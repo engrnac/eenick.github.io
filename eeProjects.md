@@ -25,7 +25,7 @@ title: Projects
 }
 
 .project-card:hover {
-  background-color: #2a2a2a;
+  background-color: #2e2e2e;
   transform: scale(1.03);
   box-shadow: 0 4px 12px rgba(200,200,200,0.5);
 }
