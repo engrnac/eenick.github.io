@@ -10,6 +10,13 @@ nav.sticky-navbar {
   box-shadow: 0 2px 10px rgba(0,0,0,0.5);
 }
 
+nav.sticky-navbar a {
+  font-size: 1.2em;
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
 body {
   background-color: #3a3a3a;
   color: #f2f2f2;
