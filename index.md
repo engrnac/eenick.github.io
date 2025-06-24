@@ -56,9 +56,7 @@ I’m **Nicholas Chavez**, an Electrical Engineer focused on Power Electronics a
 <br>
 
 - Email: nicholas.albert.chavez@gmail.com
-<br>
 - GitHub: [@nickwhimsy](https://github.com/nickwhimsy)
-<br>
 - Resume: [View PDF](#)
-<br>
+
 
