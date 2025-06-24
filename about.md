@@ -38,7 +38,7 @@ title: About
 </div>
 
 <div class="about-content">
-  <h2>My Story</h2>
+  <h2> My Story </h2>
 
   <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat erat vel erat laoreet, vel viverra sapien suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur sed tellus a est hendrerit tempus. Nulla facilisi. Fusce nec fermentum dolor, ac euismod justo. Sed at purus non ligula posuere porta.
