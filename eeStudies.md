@@ -81,3 +81,4 @@ title: Study Projects
   <a href="study.html" class="study-tile"><h3>N/A</h3></a>
   <a href="study.html" class="study-tile"><h3>LTspice Thermal Simulation</h3></a>
 </div>
+
