@@ -21,6 +21,8 @@ body {
 }
 
 .container {
+  background-color: rgba(0,0,0,0.6);
+  border-radius: 8px;
   max-width: 1000px;
   margin: 0 auto;
   padding: 2em;
