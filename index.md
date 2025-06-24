@@ -53,6 +53,7 @@ I’m **Nicholas Chavez**, an Electrical Engineer focused on Power Electronics a
 <br><br>
 
 ## 📫 Contact
+<br>
 
 - Email: nicholas.albert.chavez@gmail.com
 <br>
