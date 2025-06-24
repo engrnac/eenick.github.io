@@ -19,7 +19,7 @@ nav.sticky-navbar {
   justify-content: center;
   align-items: center;
   flex-wrap: nowrap;
-  gap: 2em;
+  gap: 1em;
   box-sizing: border-box;
 }
 
