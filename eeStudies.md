@@ -42,7 +42,10 @@ title: Study Projects
 
 # 📘 Study Projects
 
+<br><br>
+
 ---
+<br>
 
 ### 🔌 Power Electronics
 
@@ -53,6 +56,7 @@ title: Study Projects
 </div>
 
 ---
+<br>
 
 ### ⌨  Embedded Systems
 
@@ -63,6 +67,7 @@ title: Study Projects
 </div>
 
 ---
+<br>
 
 ### 📟 FPGA
 
@@ -73,6 +78,7 @@ title: Study Projects
 </div>
 
 ---
+<br>
 
 ### 📡 Miscellaneous
 
