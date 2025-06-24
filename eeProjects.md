@@ -13,7 +13,7 @@ title: Projects
 }
 
 .project-card {
-  background-color: #333;
+  background-color: #222;
   padding: 1em;
   border-radius: 8px;
   color: white;
