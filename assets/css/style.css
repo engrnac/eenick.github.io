@@ -1,0 +1,34 @@
+body {
+  background-color: #1a1a1a;
+  color: #f2f2f2
+  fontt-family: "Segoe UI", Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1000px;
+  margin:0 auto;
+  padding: 2em;
+}
+
+a {
+  color: #66ccff
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3 {
+  color: white;
+  margine-top: 1.5 em;
+}
+
+code {
+  background: #333;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}
