@@ -3,8 +3,6 @@ layout: default
 title: Projects
 ---
 
-{% include navbar.html %}
-
 <style>
   
 .project-grid {
