@@ -30,7 +30,7 @@ title: Study Projects
 .study-tile:hover {
   background-color: #2a2a2a;
   transform: translateY(-3px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 8px 16px rgba(255, 255, 255, 0.6);
 }
 
 .study-tile h3 {
